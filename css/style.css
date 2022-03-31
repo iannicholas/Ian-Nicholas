@@ -1,0 +1,28 @@
+:root {
+  --main-background-color: #FFFFFF;
+  --h1-color: #10BD9E;
+  --card-background-color: #CCFFEB;
+  --footer-nav-background-color: #96FCAB;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.custom-nav {
+  background-color: var(--footer-nav-background-color);
+  
+}
+
+.navbar-end a {
+  color: var(--main-background-color);
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+}
+
