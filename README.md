@@ -1,5 +1,4 @@
-  # Project Name
-  Updated Profile Page
+  # Ian Nicholas Portfolio
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -7,29 +6,20 @@
   Updated professional profile page. Features projects and homework.
 
   ## Table Of Contents
-  [Installation](#installation)
+  [Screen Shots](#screenshots)
 
   [License](#license)
 
   [Usage](#usage)
 
-  [Tests](#test)
-  ## Installation
+  ## Screen Shots
 
-  ~~~
-  None
-  ~~~
 
   ## License
-  MIT
+  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Usage
-  Will be used to show potential employeers my best work.
-  
-  ## Test
-  ~~~
-  None
-  ~~~
+  Used to show potential employeers my best work, with links to live projects.
 
   ## Contact
   With any questions contact me at <ian.nicholas.webdeveloper@gmail.com>, for contribution efforts <https://github.com/iannicholas>
