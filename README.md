@@ -3,7 +3,7 @@
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  Updated professional profile page. Features projects and homework.
+  This is my professional portfolio. Features some of my best projects to date. All projects are live.
 
   ## Table Of Contents
   [Screen Shots](#screenshots)
